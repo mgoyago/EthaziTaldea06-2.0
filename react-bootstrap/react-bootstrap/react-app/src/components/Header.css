@@ -1,0 +1,30 @@
+
+.nav-image {
+    transition: transform 0.3s ease;
+}
+
+.nav-image:hover {
+    transform: scale(1.1);
+}
+
+.logo-size {
+    width: 90px;
+}
+.user-size {
+    width: 50px;
+}
+.lupa-size {
+    width: 50px;
+}
+
+.search-input {
+    border: 1px solid #ccc;
+    height: 30px;
+    min-width: 80px;
+    
+}
+#languages{
+    position: absolute;
+    z-index: 100;
+    right: 22px;
+}
